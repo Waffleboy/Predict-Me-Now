@@ -5,7 +5,7 @@
 
 Ever wanted to instantly find out the base accuracy of any dataset? Don't want to go through the hassle of modifying or writing code to know it? Introducing Predict-Me-Now, the library for ~~lazy~~ efficient data scientists!
 
-## How to use:
+## How to use
 
 Simply clone the repository, and edit the filepaths to your CSV's in predictMeNow.py, then run the script. You're done! 
 
