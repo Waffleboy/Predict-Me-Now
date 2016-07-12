@@ -7,7 +7,14 @@ Ever wanted to instantly find out the base accuracy of any dataset? Don't want t
 
 ## How to use
 
-Simply clone the repository, and edit the filepaths to your CSV's in predictMeNow.py, then run the script. You're done! 
+Simply clone the repository, and edit the following variables:
+
+```
+#Examples
+trainDirectory = '/path/to/train.csv'
+testDirectory = '' # only fill this if you want to generate predictions for test set.
+TARGET = 'columnName' # this is the name of the column you want to predict
+```
 
 ## Roadmap
 
