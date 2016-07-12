@@ -11,7 +11,7 @@ Simply clone the repository, and edit the filepaths to your CSV's in predictMeNo
 
 ## Roadmap
 
-1.Support for regressions (numerical target variables)
-2.Generate predictions for test dataset (save to CSV)
-3.OneHotEncoding and imputation support
-4.Feature importance graph
+1. Support for regressions (numerical target variables)
+2. Generate predictions for test dataset (save to CSV)
+3. OneHotEncoding and imputation support
+4. Feature importance graph
