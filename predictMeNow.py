@@ -3,7 +3,7 @@
 import backend
 
 # COMPULSORY SETTINGS
-trainDirectory = '/storage/git/Kaggle/Shelter Animal Outcomes/csv/train.csv'
+trainDirectory = 'PATH/TO/TRAIN.csv'
 testDirectory = '' #replace with test directory if want. to be supported soon.
 TARGET = 'OutcomeType'
 
