@@ -1,0 +1,3 @@
+pandas == 0.18.0
+xgboost == 0.4a30
+scikit_learn == 0.17.1
